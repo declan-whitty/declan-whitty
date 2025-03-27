@@ -3,10 +3,11 @@
 ###
 
 <p align="center">
-  <img src="assets/image.png" alt="declan-whitty banner" style="max-width: 100%;" />
+  <img src="assets/banner.png" alt="declan-whitty banner" style="max-width: 100%;" />
 </p>
 
 ### 📫 Contact Me
+
 - Portfolio: [declanwhitty.dev](https://declanwhitty.dev)
 - LinkedIn: [@declan-whitty](https://www.linkedin.com/in/declan-whitty)
 - GitHub: [@declan-whitty](https://github.com/declan-whitty)
