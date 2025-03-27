@@ -2,12 +2,14 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=declan-whitty&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=declan-whitty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="assets/image.png" alt="declan-whitty banner" style="max-width: 100%;" />
+</p>
 
-###
+### 📫 Contact Me
+- Portfolio: [declanwhitty.dev](https://declanwhitty.dev)
+- LinkedIn: [@declan-whitty](https://www.linkedin.com/in/declan-whitty)
+- GitHub: [@declan-whitty](https://github.com/declan-whitty)
 
 ###
 
