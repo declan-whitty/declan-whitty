@@ -1,10 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<p align="center">
-  <img src="assets/banner.png" alt="declan-whitty banner" style="max-width: 100%;" />
-</p>
+<h2 align="left">Hi 👋! My name is Declan and I'm a ..., from ....</h2>
 
 ### 📫 Contact Me
 
