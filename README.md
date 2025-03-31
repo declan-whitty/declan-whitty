@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is Declan and I'm a fullstack dev, from Australia</h2>
-
 ### 📫 Contact Me
 
 - Portfolio: [declanwhitty.dev](https://declanwhitty.dev)
