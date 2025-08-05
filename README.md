@@ -1,4 +1,4 @@
-### 📫 Contact Me
+### Contact Me
 
 - Portfolio: [declanwhitty.dev](https://declanwhitty.dev)
 - LinkedIn: [@declan-whitty](https://www.linkedin.com/in/declan-whitty)
