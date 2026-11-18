@@ -14,7 +14,7 @@
 
 Computer Science student at **QUT**, graduating 2027. I like building things and shipping them.
 
-- ** Founding Treasurer**, QUT AI & ML Society
+- **Founding Treasurer**, QUT AI & ML Society
 - **Technology Consultant**, 180 Degrees Consulting
 
 Open to new opportunities and interesting collaborations.
